@@ -6,6 +6,11 @@ export default function Home() {
       <h1 className='text-2xl'>
         Hi from <strong>feat/testing</strong>
       </h1>
+      <p>
+        Adipisicing eu irure velit ullamco sunt ea deserunt tempor labore. Esse
+        consectetur nulla pariatur sit nostrud velit in ipsum enim ut. Minim
+        esse fugiat laboris amet laborum duis minim.
+      </p>
       <Image
         className='relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert'
         src='/next.svg'
