@@ -24,6 +24,15 @@ export default function Home() {
         height={37}
         priority
       />
+      By{' '}
+      <Image
+        src='/vercel.svg'
+        alt='Vercel Logo'
+        className='dark:invert'
+        width={100}
+        height={24}
+        priority
+      />
     </main>
   );
 }
