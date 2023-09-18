@@ -5,6 +5,15 @@ export default function Home() {
     <main className='flex min-h-screen flex-col items-center justify-between p-24'>
       <h1 className='text-2xl'>
         Hi from <strong>feat/testing</strong>
+        By{' '}
+        <Image
+          src='/vercel.svg'
+          alt='Vercel Logo'
+          className='dark:invert'
+          width={100}
+          height={24}
+          priority
+        />
       </h1>
     </main>
   );
